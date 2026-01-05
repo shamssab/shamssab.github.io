@@ -291,7 +291,7 @@ a {
     height: 100%;
     object-fit: cover;
     border-radius: 50%;
-    transform: scale(1.15) rotate(5deg);
+    transform: scale(1.25) rotate(6deg) translateY(11px);
     transition: transform 0.5s ease;
 }
 
